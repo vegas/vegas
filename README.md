@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is vegas, here's some stuff about me:
 
 - 🔭 I’m currently working on nothing, finished everything I was working on
 - 🌱 I’m currently learning React, going to help with mobile parts of my project
