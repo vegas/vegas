@@ -10,3 +10,4 @@ My name is vegas, here's some stuff about me:
 - 📫 How to reach me: [email](venirev3@gmail.com), [twitter](enxsbackup), email is preferred if important
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: I dislike popcorn. a lot.
+- ✘ I am not available during holidays.
