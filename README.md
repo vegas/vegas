@@ -2,6 +2,7 @@
 
 My name is vegas, here's some stuff about me:
 
+- 📍 I live in Toulouse, France
 - 🔭 I’m currently working on nothing, finished everything I was working on.
 - 🌱 I’m currently learning React, going to help with mobile parts of my project.
 - 👯 I’m looking to collaborate on anything.
