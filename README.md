@@ -12,6 +12,3 @@ My name is vegas, here's some stuff about me:
 - 😄 Pronouns: he/him, they/them.
 - ⚡ Fun fact: I dislike popcorn. a lot.
 - ✘ I am not available during holidays.
-
-Also, take a quick look at my profile & repositories: 
-[![GitHub metrics](https://metrics.lecoq.io/vegas?languages=1&followup=1)](https://github.com/lowlighter/metrics)
